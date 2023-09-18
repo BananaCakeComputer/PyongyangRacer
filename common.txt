@@ -1,0 +1,57 @@
+﻿$CHARACTER_TEST#-/\&ǡIigGsS
+$THOUSANDS_DELIMITER#,
+$MAPNAME1#Pyongyang
+$CONTINUERACE#Continue Race
+$DO_YOU_WANT_TO_RACE#Do you want to continue race?
+$RACE_NOW#Race Now!
+$BACK#Back
+$RACE#Race
+$FINISH#Finish
+$YOU_ARE#You are
+$YOU#You
+$1ST#1
+$2ND#2
+$3RD#3
+$4TH#4
+$NEXT#Next
+$SKIP#Skip
+$TRY_IT_AGAIN#Try again!
+$CLOSE#Close
+$RACE_AGAIN#Race again
+$GET_READY#Get ready!
+$LOADING#Loading
+$HOW_TO_DRIVE#How to drive
+$SPEED_UP#Speed up
+$LEFT#Left
+$RIGHT#Right
+$BRAKE#Brake
+$SPACE_BAR#Space bar
+$USE_ITEM#Honk
+$OK#OK
+$QUIT_OR_RESTART#Quit or restart the race?
+$RESTART#Restart
+$QUIT#Quit
+$CANCEL#Cancel
+$F_ACTIONLINK_TEXT#Race now!
+$TUTORIAL_PRESS1#Press
+$TUTORIAL_PRESS2#to use special items
+
+$GAME_RANK_TEXT1#WINNER!
+$GAME_RANK_TEXT2#2nd PLACE
+$GAME_RANK_TEXT3#3rd PLACE
+$GAME_RANK_TEXT4#4th PLACE
+
+$GAME_RANK_INGAME1#<FONT SIZE = '40'>1</FONT><FONT SIZE = '30'>ST</FONT>
+$GAME_RANK_INGAME2#<FONT SIZE = '40'>2</FONT><FONT SIZE = '30'>ND</FONT>
+$GAME_RANK_INGAME3#<FONT SIZE = '40'>3</FONT><FONT SIZE = '30'>RD</FONT>
+$GAME_RANK_INGAME4#<FONT SIZE = '40'>4</FONT><FONT SIZE = '30'>TH</FONT>
+
+$GAME_LAPVIEW_TEXT1#LAP
+$GAME_FINAL#FINAL LAP
+$GAME_LAPE_GO#GO
+$GAME_WRONG#WRONG WAY
+
+$TURN_FORWARD#Drive straight on. Don't stare at me, I'm on duty.
+$TURN_RIGHT#Turn right. Have you just passed your test?.
+$TURN_LEFT#Turn left. You shouldn't be allowed on the road!.
+$TURN_WARRING#Your going the wrong way! Go back or else....
