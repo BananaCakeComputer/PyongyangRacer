@@ -12,6 +12,6 @@ Adobe Flash Player of your internet browser is required. Unfortunately Flash emu
 
 If you would like to run Pyongyang Racer locally, please run ``PYracer.swf`` outside the web browser.
 
-# Issues
+# Issue with this game
 
 If you have your debugger of Flash turned on, you may noticed that when you collect a "sight" in game, there will be a window contains error messages pop on. That is because the detailed images of sights is missing. If you have those images, please contact me.
