@@ -682,23 +682,3 @@ var swfobject = function() {
 
 
 }
-/*
-     FILE ARCHIVED ON 01:01:06 Dec 03, 2021 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 04:00:27 Sep 16, 2023.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 265.538
-  exclusion.robots: 0.335
-  exclusion.robots.policy: 0.32
-  cdx.remote: 0.102
-  esindex: 0.013
-  LoadShardBlock: 121.079 (3)
-  PetaboxLoader3.datanode: 163.728 (5)
-  load_resource: 372.737 (2)
-  PetaboxLoader3.resolve: 118.256 (2)
-*/
